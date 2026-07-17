@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace DSA Problem Solving
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0283-move-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
