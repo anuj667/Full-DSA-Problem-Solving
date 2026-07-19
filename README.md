@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace DSA Problem Solving
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace DSA Problem Solving
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
