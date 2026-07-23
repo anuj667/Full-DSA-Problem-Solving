@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace DSA Problem Solving
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
