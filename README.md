@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace DSA Problem Solving
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0283-move-zeroes](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0014-longest-common-prefix) |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace DSA Problem Solving
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/anuj667/Full-DSA-Problem-Solving/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
